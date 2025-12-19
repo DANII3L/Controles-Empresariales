@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bedom\\OneDrive\\Documentos\\Daniel M\\Proyectos\\Controles Empresariales\\ElEmpleoPTecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F83E26B-5934-DF62-6361-E2B215107DB9}|ElEmpleoPTecnica.csproj|c:\\users\\bedom\\onedrive\\documentos\\daniel m\\proyectos\\controles empresariales\\elempleoptecnica\\model\\postulaciones_response_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F83E26B-5934-DF62-6361-E2B215107DB9}|ElEmpleoPTecnica.csproj|solutionrelative:model\\postulaciones_response_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F83E26B-5934-DF62-6361-E2B215107DB9}|ElEmpleoPTecnica.csproj|c:\\users\\bedom\\onedrive\\documentos\\daniel m\\proyectos\\controles empresariales\\elempleoptecnica\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F83E26B-5934-DF62-6361-E2B215107DB9}|ElEmpleoPTecnica.csproj|solutionrelative:service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F83E26B-5934-DF62-6361-E2B215107DB9}|ElEmpleoPTecnica.csproj|c:\\users\\bedom\\onedrive\\documentos\\daniel m\\proyectos\\controles empresariales\\elempleoptecnica\\controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F83E26B-5934-DF62-6361-E2B215107DB9}|ElEmpleoPTecnica.csproj|solutionrelative:controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F83E26B-5934-DF62-6361-E2B215107DB9}|ElEmpleoPTecnica.csproj|c:\\users\\bedom\\onedrive\\documentos\\daniel m\\proyectos\\controles empresariales\\elempleoptecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F83E26B-5934-DF62-6361-E2B215107DB9}|ElEmpleoPTecnica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Postulaciones_Response_Model.cs",
+              "DocumentMoniker": "C:\\Users\\bedom\\OneDrive\\Documentos\\Daniel M\\Proyectos\\Controles Empresariales\\ElEmpleoPTecnica\\Model\\Postulaciones_Response_Model.cs",
+              "RelativeDocumentMoniker": "Model\\Postulaciones_Response_Model.cs",
+              "ToolTip": "C:\\Users\\bedom\\OneDrive\\Documentos\\Daniel M\\Proyectos\\Controles Empresariales\\ElEmpleoPTecnica\\Model\\Postulaciones_Response_Model.cs",
+              "RelativeToolTip": "Model\\Postulaciones_Response_Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T23:13:58.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\bedom\\OneDrive\\Documentos\\Daniel M\\Proyectos\\Controles Empresariales\\ElEmpleoPTecnica\\Service\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Service\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\bedom\\OneDrive\\Documentos\\Daniel M\\Proyectos\\Controles Empresariales\\ElEmpleoPTecnica\\Service\\UsuarioService.cs",
+              "RelativeToolTip": "Service\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T22:56:24.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\bedom\\OneDrive\\Documentos\\Daniel M\\Proyectos\\Controles Empresariales\\ElEmpleoPTecnica\\Controller\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controller\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\bedom\\OneDrive\\Documentos\\Daniel M\\Proyectos\\Controles Empresariales\\ElEmpleoPTecnica\\Controller\\UsuarioController.cs",
+              "RelativeToolTip": "Controller\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:22:43.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bedom\\OneDrive\\Documentos\\Daniel M\\Proyectos\\Controles Empresariales\\ElEmpleoPTecnica\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bedom\\OneDrive\\Documentos\\Daniel M\\Proyectos\\Controles Empresariales\\ElEmpleoPTecnica\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv0IAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T16:21:48.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

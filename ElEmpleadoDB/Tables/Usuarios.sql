@@ -1,0 +1,15 @@
+CREATE TABLE Usuarios (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Email VARCHAR(150) NOT NULL UNIQUE,
+    PasswordHash VARCHAR(255) NOT NULL,
+    Telefono VARCHAR(20),
+    Nombres VARCHAR(100) NOT NULL,
+    Apellidos VARCHAR(100) NOT NULL,
+    Estado BIT NOT NULL DEFAULT 1,
+    FechaCreacion DATETIME NOT NULL DEFAULT GETDATE(),
+    FechaNacimiento DATETIME NOT NULL,
+    Edad INT NOT NULL,
+    RolId INT NOT NULL, -- DEMANDANTE | EMPLEADOR
+    CONSTRAINT FK_Usuarios_Roles
+        FOREIGN KEY (RolId) REFERENCES Roles(Id)
+);

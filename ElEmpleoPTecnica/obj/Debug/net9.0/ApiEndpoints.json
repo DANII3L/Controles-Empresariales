@@ -1,0 +1,204 @@
+[
+  {
+    "ContainingType": "ElEmpleoPTecnica.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "LoginRequest_Model",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElEmpleoPTecnica.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ElEmpleoPTecnica.Models.RegisterRequest_Model",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElEmpleoPTecnica.Controller.PostulacionesController",
+    "Method": "GetPostulaciones",
+    "RelativePath": "api/Postulaciones",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "VacanteId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElEmpleoPTecnica.Controller.PostulacionesController",
+    "Method": "CreatePostulacion",
+    "RelativePath": "api/Postulaciones",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ElEmpleoPTecnica.Models.Postulaciones_Model",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElEmpleoPTecnica.Controller.UsuarioController",
+    "Method": "CreateEstudiosUsuarioAsync",
+    "RelativePath": "api/Usuario/CrearEstudiosUsuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estudios_Models",
+        "Type": "ElEmpleoPTecnica.Models.Estudios_Model",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElEmpleoPTecnica.Controller.UsuarioController",
+    "Method": "CreateExperienciasLaboralesUsuarioAsync",
+    "RelativePath": "api/Usuario/CrearExperienciasLaboralesUsuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "experienciasLaborales_Models",
+        "Type": "ElEmpleoPTecnica.Models.ExperienciasLaborales_Model",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElEmpleoPTecnica.Controller.UsuarioController",
+    "Method": "FindDetalleUsuarioUnificadoAsync",
+    "RelativePath": "api/Usuario/DetalleUsuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UsuarioId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElEmpleoPTecnica.Controller.UsuarioController",
+    "Method": "EstudiosUsuarioAsync",
+    "RelativePath": "api/Usuario/EstudiosUsuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElEmpleoPTecnica.Controller.UsuarioController",
+    "Method": "ExperienciasLaboralesAsync",
+    "RelativePath": "api/Usuario/ExperienciasLaborales",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElEmpleoPTecnica.Controller.UsuarioController",
+    "Method": "ProfileAsync",
+    "RelativePath": "api/Usuario/Profile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElEmpleoPTecnica.Controller.VacantesController",
+    "Method": "GetVacantes",
+    "RelativePath": "api/Vacantes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElEmpleoPTecnica.Controller.VacantesController",
+    "Method": "CreateVacante",
+    "RelativePath": "api/Vacantes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ElEmpleoPTecnica.Models.VacanteCreationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElEmpleoPTecnica.Controller.VacantesController",
+    "Method": "FindHabilidadesVacantesAsync",
+    "RelativePath": "api/Vacantes/HabilidadesVac",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "VacanteId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
