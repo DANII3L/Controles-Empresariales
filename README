@@ -1,0 +1,42 @@
+# 📊 Controles‑Empresariales
+
+Descripción general del repositorio de **Controles‑Empresariales**, un conjunto de soluciones orientadas a gestión de empleados, procesos y herramientas empresariales.
+
+Este proyecto incluye distintas partes de una solución de software que involucra:
+
+- Backend de base de datos (SQL Server).
+- Frontend en React para interfaces de usuario.
+- Lógica de negocio y API en C# / .NET.
+
+---
+
+## Estructura del repositorio
+/
+ElEmpleadoDB/
+    (Scripts y artefactos de base de datos)
+ElEmpleoFrontend/
+    ElEmpleadoReact / (Frontend React)
+ElEmpleoPTecnica/
+    (Archivos relacionados a pruebas técnicas)
+
+
+## Instalación y ejecución
+
+### Base de datos (ElEmpleadoDB)
+
+1. Abre **SQL Server Management Studio** (SSMS) o tu cliente de BD.
+2. Ejecuta los archivos `.sql` dentro de la carpeta `ElEmpleadoDB` para crear **tablas**, **relaciones** y **datos iniciales**.
+3. Ajusta la cadena de conexión en el proyecto backend con tus credenciales locales.
+
+
+## Frontend en React
+
+1. Entra a la carpeta del frontend:
+   ```bash
+   cd ElEmpleoFrontend/ElEmpleadoReact
+   Instala dependencias: npm i
+
+
+## Diagrama de Arquitectura de BD
+
+![Arquitectura de Base de Datos](ElEmpleadoDB\Db\ElEmpleo.png)
